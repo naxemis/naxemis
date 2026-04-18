@@ -1,1 +1,1 @@
-I am an 18 year old aspiring software developer from Poland. I am engaged in learning front-end, back-end and databases. I am focusing on learning Kotlin, Node.js, Angular and Godot Engine. I plan to create many projects showing my skill as a developer.
+I am an 18 year old aspiring software developer from Poland. I am engaged in learning front-end, back-end and databases. I am focusing on learning Kotlin, Angular and Godot Engine. I plan to create many projects showing my skill as a developer.
